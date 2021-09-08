@@ -1,6 +1,6 @@
 # Links
 
-* https://habr.com/en/post/435546/
+* [Практические советы, примеры и туннели SSH](https://habr.com/en/post/435546/)
 
 
 
