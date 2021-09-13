@@ -38,3 +38,5 @@ Reloading bash to apply the TERM variable:
 ```
 user@remote:~$ exec /bin/bash
 ```
+
+Src: https://forum.hackthebox.eu/discussion/142/obtaining-a-fully-interactive-shell
