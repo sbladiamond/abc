@@ -15,7 +15,8 @@ https://codeby.net/threads/commix-prostymi-slovami.67620/
 https://github.com/sbladiamond/abc/blob/main/eu-15-Stasinopoulos-Commix-Detecting-And-Exploiting-Command-Injection-Flaws.pdf
 
 
-
+### HOWTO
+https://www.postexplo.com/forum/ids-ips/network-based/764-ids-evasion-techniques-using-url-encoding
 
 
 
