@@ -12,7 +12,7 @@
 
 ### Commix
 https://codeby.net/threads/commix-prostymi-slovami.67620/
-https://www.blackhat.com/docs/eu-15/materials/eu-15-Stasinopoulos-Commix-Detecting-And-Exploiting-Command-Injection-Flaws.pdf
+https://github.com/sbladiamond/abc/blob/main/eu-15-Stasinopoulos-Commix-Detecting-And-Exploiting-Command-Injection-Flaws.pdf
 
 
 
