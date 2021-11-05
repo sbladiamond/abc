@@ -19,4 +19,8 @@ https://github.com/sbladiamond/abc/blob/main/eu-15-Stasinopoulos-Commix-Detectin
 https://www.postexplo.com/forum/ids-ips/network-based/764-ids-evasion-techniques-using-url-encoding
 
 
-
+### DOCKER-COMPOSE
+Install oneliner
+```
+curl -L "https://github.com/docker/compose/releases/download/`curl -fsSLI -o /dev/null -w %{url_effective} https://github.com/docker/compose/releases/latest | sed 's#.*tag/##g' && echo`/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose && chmod +x /usr/local/bin/docker-compose
+```
