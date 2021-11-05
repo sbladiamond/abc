@@ -13,3 +13,8 @@ services:
               cpus: 0.25
               memory: 128M
 ```
+
+## MONITORING
+
+`docker stats`
+
