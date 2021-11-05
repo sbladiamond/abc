@@ -1,6 +1,6 @@
 ## MANAGE RESOURCES
 
-```
+```yaml
 services:
   service:
     image: nginx
