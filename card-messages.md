@@ -1,4 +1,4 @@
-### Insufficient Funds	
+### 01. Insufficient Funds	
 
 **Message for the Customer:** The transaction was declined due to insufficient funds in your account. Please use a different card or contact your bank.	
 
@@ -6,7 +6,7 @@
 
 ---
 
-### Declined	
+### 02. Declined	
 
 **Message for the Customer:** Your card was declined. In order to resolve the issue, you will need to contact your bank.	
 
@@ -14,7 +14,7 @@
 
 ---
 
-### Temporary Hold	
+### 03. Temporary Hold	
 
 **Message for the Customer:** Your card has a temporary hold. Please use a different card or contact your bank.	
 
@@ -22,7 +22,7 @@
 
 ---
 
-### Fraud Stolen Card	
+### 04. Fraud Stolen Card	
 
 **Message for the Customer:** The transaction was declined. Please use a different card or contact your bank.	
 
@@ -30,7 +30,7 @@
 
 ---
 
-### Invalid Card or Account Number	
+### 05. Invalid Card or Account Number	
 
 **Message for the Customer:** Your card number is not valid. Please update your card number.	
 
@@ -38,7 +38,7 @@
 
 ---
 
-### Expired Card	
+### 06. Expired Card	
 
 **Message for the Customer:** Your credit card is expired, please update your card.	
 
